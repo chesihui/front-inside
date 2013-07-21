@@ -6,3 +6,4 @@ date: 2013 年度第三期
 
 ![IE11:请不要叫我IE](./images/banner.jpg)
 
+![json与jsonp的区别](./images/jsonjsonp.jpg)
