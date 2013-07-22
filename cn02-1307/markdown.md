@@ -11,3 +11,5 @@ date: 2013 年度第三期
 [![base64.js让所有浏览器支持window.btoa()](./images/front-inside_06.jpg)](https://github.com/davidchambers/Base64.js/blob/master/base64.js)
 
 ![浏览器缩放zoom](./images/zoom.png)
+
+[![EventSource](./images/eventsource.png)](https://developer.mozilla.org/en-US/docs/Server-sent_events/Using_server-sent_events)
