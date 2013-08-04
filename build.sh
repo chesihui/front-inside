@@ -1,6 +1,6 @@
 #!/bin/sh
 
-filenames=(01-1306 01-1307 02-1307)
+filenames=(01-1306 01-1307 02-1307 01-1308)
 
 for i in ${filenames[@]}  
 do
