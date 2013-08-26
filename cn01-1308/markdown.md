@@ -11,3 +11,5 @@ date: 2013 年度第四期
 [![提升用户感知性能](images/cn01-1308-2.png)](http://www.lukew.com/ff/entry.asp?1759)
 
 [![css3 content & values attr()](images/cn01-1308-3.png)](http://www.w3.org/TR/css3-content/)
+
+[![backgrount-size](images/cn01-1308-4.png)](http://www.w3cplus.com/content/css3-background-size)
