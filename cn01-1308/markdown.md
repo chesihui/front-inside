@@ -12,4 +12,6 @@ date: 2013 年度第四期
 
 [![css3 content & values attr()](images/cn01-1308-3.png)](http://www.w3.org/TR/css3-content/)
 
-[![backgrount-size](images/cn01-1308-4.png)](http://www.w3cplus.com/content/css3-background-size)
+[![adaptive-images](images/cn01-1308-5.jpg)](http://adaptive-images.com/)
+
+[![bitwise vs Math.floor()](images/cn01-1308-6.png)](http://yunpan.alibaba-inc.com/share/link/766chmyb)
