@@ -7,7 +7,7 @@ author:子仲
 
 ![snapchat](./images/cover.png)
 
-[![html5-canvas](./images/marchingants.png)](http://www.w3.org/html/wg/drafts/2dcontext/html5_canvas/)
+[![html5-canvas](./images/marchingants.png)](http://chesihui.github.io/front-inside/cn02-1401/ants)
 
 [![一元运算](./images/tangzhu.png)]()
 
