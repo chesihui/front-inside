@@ -9,5 +9,10 @@ author:子仲
 
 [![html5-canvas](./images/marchingants.png)](http://chesihui.github.io/front-inside/cn02-1401/ants)
 
-[![一元运算](./images/tangzhu.png)]()
+![一元运算](./images/tangzhu.png)]
 
+![git.gitignore](./images/git.png)
+
+![highlight](./images/highlight.png)
+
+[![html5game](./images/html5game.png)](http://www.limejs.com/)
