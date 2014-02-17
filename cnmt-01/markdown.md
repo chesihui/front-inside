@@ -10,3 +10,5 @@ author:灵玉
 [![webkit导致页面闪烁](./images/flicker.png)](http://blog.csdn.net/milado_nju/article/details/7292131)
 
 ![window.scroll优化](./images/windowscroll.png)
+
+![overflow:auto](./images/overflow.png)

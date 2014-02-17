@@ -17,4 +17,4 @@ author:子仲
 
 [![html5game](./images/html5game.png)](http://www.limejs.com/)
 
-![highlight](./images/yangcheng.png)
+![highlight](./images/yacheng.png)
